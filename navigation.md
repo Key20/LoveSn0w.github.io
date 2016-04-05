@@ -6,6 +6,8 @@
 [SubMenuName]()
 
   * [SubPage1](subpage/page1.md)
+    * [subpage1](pentest/page1.md)
+    * [subpage1](pentest/page2.md)
   * [SubPage2](subpage/page2.md)
   * [SubPage3](subpage/page3.md)
 
