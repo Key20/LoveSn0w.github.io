@@ -1,11 +1,4 @@
 #LoveSnow's wiki
-- - - -
-*#SubMenu Heading 1
-* [SubMenu Item 1](webbase.md)
-* [SubMenu Item 2](subitem2.md)
-- - - -
-*#SubMenu Heading 2
-* [SubMenu Item 3](subitem3.md)
-- - - -
-*#SubMenu Heading 3
-* [SubMenu Item 3](subitem3.md)
+##基础知识
+* [基础名词](webbase.md)
+* [专业术语](webbase.md)
