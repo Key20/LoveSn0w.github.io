@@ -1,2 +1,4 @@
-# LoveSn0w.github.io
-LoveSn0w的博客
+MDwiki
+======
+
+See http://www.mdwiki.info/ for more documentation and details.
