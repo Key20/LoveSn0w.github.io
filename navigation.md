@@ -1,6 +1,4 @@
 #LoveSnow's wiki
-Menu Item 1
-
   * # SubMenu Heading 1
   * [SubMenu Item 1](webbase.md)
   * [SubMenu Item 2](subitem2.md)
