@@ -6,8 +6,6 @@
 [SubMenuName]()
 
   * [SubPage1](subpage/page1.md)
-    * [subpage1](pentest/page1.md)
-    * [subpage1](pentest/page2.md)
   * [SubPage2](subpage/page2.md)
   * [SubPage3](subpage/page3.md)
 
@@ -16,6 +14,3 @@
 
 <!-- show a theme chooser in the menu bar -->
 [gimmick:ThemeChooser](Change theme)
-
-<!-- show a fork me on github ribbon -->
-[gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki-seed/)
