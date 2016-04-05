@@ -1,13 +1,12 @@
 #LoveSnow's wiki
-[Page1](page1.md)
-[Page2](page2.md)
-[Page3](page3.md)
+[基础知识](page1.md)
+[渗透测试](page2.md)
+[编程](page3.md)
 
-[SubMenuName]()
-
-  * [SubPage1](subpage/page1.md)
-  * [SubPage2](subpage/page2.md)
-  * [SubPage3](subpage/page3.md)
+[杂记]()
+  * [历史](subpage/page1.md)
+  * [生活](subpage/page2.md)
+  * [随想](subpage/page3.md)
 
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](bootstrap)
