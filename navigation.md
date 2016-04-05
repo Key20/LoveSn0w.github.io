@@ -10,8 +10,3 @@ Menu Item 1
   - - - -
   * # SubMenu Heading 3
   * [SubMenu Item 3](subitem3.md)
-
-Menu Item 2
-
-- - - -
-[Menu Item 3](item3.md)
