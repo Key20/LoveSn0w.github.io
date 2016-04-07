@@ -86,7 +86,5 @@
   * [随想]()
 
 <!-- set a default theme -->
-[gimmick:theme (inverse: false)](bootstrap)
+[gimmick:theme (inverse: false)](cosmo)
 
-<!-- show a theme chooser in the menu bar -->
-[gimmick:ThemeChooser](Change theme)
