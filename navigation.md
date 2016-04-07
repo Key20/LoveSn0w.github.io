@@ -64,8 +64,6 @@
   * [Java]()
   * [PHP]()
   * [ASP]()
-  * [Ruby]()
-  * [Go]()
   * [HTML]()
   * [Javascript]()
   * [node.js]()
