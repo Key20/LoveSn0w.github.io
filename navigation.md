@@ -6,7 +6,7 @@
 
 [安全漏洞]()
 
-  * [SQL注入]()
+  * [SQL注入](SQLi.md)
   * [XSS]()
   * [CSRF]()
   * [SSRF]()
